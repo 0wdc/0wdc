@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @0wdc  | OWDC
 - 👀 I’m interested in web-dev now
-- 🌱 I’m currently learning HTML|CSS, and design
+- 🌱 I’m currently learning Angular|JS, and design
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
